@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1](https://github.com/gotgenes/pi-subagents/compare/v1.0.0...v1.0.1) (2026-05-15)
+
+
+### Documentation
+
+* add module dependency graph and architecture descriptions to AGENTS.md ([79022ce](https://github.com/gotgenes/pi-subagents/commit/79022cee11d6412b77cf94c64a6139e6d682cb6d)), closes [#5](https://github.com/gotgenes/pi-subagents/issues/5)
+* add planned decomposition architecture ([bb63606](https://github.com/gotgenes/pi-subagents/commit/bb636068e1a038144c16563082b7b2301748cf9c))
+* **architecture:** use optional peer dep, not separate API package ([674b95c](https://github.com/gotgenes/pi-subagents/commit/674b95c6e816d7dad7e6a98d5cf2f0deb746f109))
+* update README with fork notice and upstream PR links ([dc70d24](https://github.com/gotgenes/pi-subagents/commit/dc70d245d32e08868b919e3180d3ef72d87d3e97))
+
+
+### Miscellaneous Chores
+
+* add pi-autoformat config ([11b1ad9](https://github.com/gotgenes/pi-subagents/commit/11b1ad9de581383731fbdeabb24cb60da2b2c58e))
+* approve builds ([6ff0edf](https://github.com/gotgenes/pi-subagents/commit/6ff0edfcf624413dad71fc5c96bc7d5f8e686498))
+* bump pnpm to 11.1.1 ([a1ab759](https://github.com/gotgenes/pi-subagents/commit/a1ab7592b41ec1977450e9cfc160ee2a06d7ef24))
+* bump pnpm/action-setup to v6, release-please-action to v5 ([faa9447](https://github.com/gotgenes/pi-subagents/commit/faa944730b9278cd49f4b412cad7a993d4799b83))
+* remove node-version overrides from CI workflow ([e61ea03](https://github.com/gotgenes/pi-subagents/commit/e61ea0302116acbef27906329298255aceec35de))
+
 ## [1.0.0](https://github.com/gotgenes/pi-subagents/compare/v0.7.2...v1.0.0) (2026-05-12)
 
 
