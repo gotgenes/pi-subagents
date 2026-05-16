@@ -1,3 +1,6 @@
+> **⚠️ This repository has moved to [gotgenes/pi-packages](https://github.com/gotgenes/pi-packages) (pi-subagents).**
+> Please file issues and PRs there.
+
 # @gotgenes/pi-subagents
 
 A [pi](https://pi.dev) extension that brings **Claude Code-style autonomous sub-agents** to pi. Spawn specialized agents that run in isolated sessions — each with its own tools, system prompt, model, and thinking level. Run them in foreground or background, steer them mid-run, resume completed sessions, and define your own custom agent types.
